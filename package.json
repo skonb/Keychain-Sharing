@@ -1,0 +1,23 @@
+{
+    "name": "cordova-plugin-keychain-sharing",
+    "version": "1.0.0-beta",
+    "description": "CodePush Plugin for Keychain Sharing",
+    "cordova": {
+        "id": "cordova-plugin-keychain-sharing",
+        "platforms": [
+            "ios"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/skonb/Keychain-Sharing"
+    },
+    "keywords": [
+        "cordova",
+        "keychain",
+        "cordova-ios"
+    ],
+    "author": "Telerik-Verified-Plugins",
+    "license": "MIT"
+}
+
